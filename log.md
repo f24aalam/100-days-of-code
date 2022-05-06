@@ -2,7 +2,7 @@
 
 ### Day 1: May 6, Friday
 
-**Today's Progress**: I've completed the angular tource of heroes tutorial.
+**Today's Progress**: I've completed the angular tour of heroes tutorial.
 
 **Thoughts**: I know angular from 2016-17, used it with the ionic to build a mobile application but never got the chance to use it for web development and other thing. going to create some other projects in angular with different backend frameworks.
 
