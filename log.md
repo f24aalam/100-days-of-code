@@ -8,3 +8,13 @@
 
 **Link(s) to work**
 1. [Angular Tour of Heroes](https://github.com/f24aalam/angular-tour-of-heroes)
+
+
+### Day 2: May 6, Saturday
+
+**Today's Progress**: I've completed the angular with supabase.
+
+**Thoughts**: Looking forword to give some days for angular and it's tutorial.
+
+**Link(s) to work**
+1. [Angular Supabase](https://github.com/f24aalam/angular-supbase)
