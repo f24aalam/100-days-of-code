@@ -10,7 +10,7 @@
 1. [Angular Tour of Heroes](https://github.com/f24aalam/angular-tour-of-heroes)
 
 
-### Day 2: May 6, Saturday
+### Day 2: May 7, Saturday
 
 **Today's Progress**: I've completed the angular with supabase.
 
@@ -18,3 +18,13 @@
 
 **Link(s) to work**
 1. [Angular Supabase](https://github.com/f24aalam/angular-supbase)
+
+
+### Day 3: May 8, Sunday
+
+**Today's Progress**: Started working on Angular todo app with supabase
+
+**Thoughts**: Looking forword to learn more mechanism and techniques to build a production ready application using Angular and Supabase
+
+**Link(s) to work**
+1. [Angular Todo App](https://github.com/f24aalam/angular-todo)
