@@ -28,3 +28,12 @@
 
 **Link(s) to work**
 1. [Angular Todo App](https://github.com/f24aalam/angular-todo)
+
+### Day 4: May 10, Tuesday
+
+**Today's Progress**: Completed the authentication feature
+
+**Thoughts**: Angular gurds are good, can be thought as the middleware
+
+**Link(s) to work**
+1. [Angular Todo App | Authentication](https://github.com/f24aalam/angular-todo/pull/1)
