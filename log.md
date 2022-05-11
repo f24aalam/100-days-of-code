@@ -37,3 +37,13 @@
 
 **Link(s) to work**
 1. [Angular Todo App | Authentication](https://github.com/f24aalam/angular-todo/pull/1)
+
+
+### Day 5: May 11, Tuesday
+
+**Today's Progress**: Started working Categories section
+
+**Thoughts**: Have some issues in understanding the supabase
+
+**Link(s) to work**
+1. [Angular Todo App | Authentication](https://github.com/f24aalam/angular-todo)
