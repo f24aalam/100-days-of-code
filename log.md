@@ -39,11 +39,21 @@
 1. [Angular Todo App | Authentication](https://github.com/f24aalam/angular-todo/pull/1)
 
 
-### Day 5: May 11, Tuesday
+### Day 5: May 11, Wednesday
 
 **Today's Progress**: Started working Categories section
 
 **Thoughts**: Have some issues in understanding the supabase
+
+**Link(s) to work**
+1. [Angular Todo App | Authentication](https://github.com/f24aalam/angular-todo)
+
+
+### Day 6: May 12, Thursday
+
+**Today's Progress**: Completed Catgeories CRUD
+
+**Thoughts**: OK - understading the supabase now and it's good
 
 **Link(s) to work**
 1. [Angular Todo App | Authentication](https://github.com/f24aalam/angular-todo)
