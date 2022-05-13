@@ -36,7 +36,7 @@
 **Thoughts**: Angular gurds are good, can be thought as the middleware
 
 **Link(s) to work**
-1. [Angular Todo App | Authentication](https://github.com/f24aalam/angular-todo/pull/1)
+1. [Angular Todo App](https://github.com/f24aalam/angular-todo/pull/1)
 
 
 ### Day 5: May 11, Wednesday
@@ -46,7 +46,7 @@
 **Thoughts**: Have some issues in understanding the supabase
 
 **Link(s) to work**
-1. [Angular Todo App | Authentication](https://github.com/f24aalam/angular-todo)
+1. [Angular Todo App](https://github.com/f24aalam/angular-todo)
 
 
 ### Day 6: May 12, Thursday
@@ -56,4 +56,14 @@
 **Thoughts**: OK - understading the supabase now and it's good
 
 **Link(s) to work**
-1. [Angular Todo App | Authentication](https://github.com/f24aalam/angular-todo)
+1. [Angular Todo App](https://github.com/f24aalam/angular-todo)
+
+
+### Day 7: May 13, Friday
+
+**Today's Progress**: Started working on tasks
+
+**Thoughts**: Created the task service and added some methods for CRUD
+
+**Link(s) to work**
+1. [Angular Todo App](https://github.com/f24aalam/angular-todo)
