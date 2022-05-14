@@ -67,3 +67,13 @@
 
 **Link(s) to work**
 1. [Angular Todo App](https://github.com/f24aalam/angular-todo)
+
+
+### Day 8: May 14, Saturday
+
+**Today's Progress**: Stuck on the select category
+
+**Thoughts**: May have to use the ng modal, I think
+
+**Link(s) to work**
+1. [Angular Todo App](https://github.com/f24aalam/angular-todo)
