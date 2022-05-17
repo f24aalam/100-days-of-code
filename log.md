@@ -77,3 +77,21 @@
 
 **Link(s) to work**
 1. [Angular Todo App](https://github.com/f24aalam/angular-todo)
+
+
+
+### Day 9: May 16, Monday
+
+**Today's Progress**: Started Learning Basics of Go Language
+
+**Thoughts**: Going to create some projects in go language
+
+
+### Day 10: May 17, Tuesday
+
+**Today's Progress**: Created a go server project
+
+**Thoughts**: looks great, might be looking for some frameworks
+
+**Link(s) to work**
+1. [Go Server](https://github.com/f24aalam/go-projects/tree/master/go-server)
