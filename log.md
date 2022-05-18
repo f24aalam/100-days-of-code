@@ -95,3 +95,10 @@
 
 **Link(s) to work**
 1. [Go Server](https://github.com/f24aalam/go-projects/tree/master/go-server)
+
+### Day 11: May 18, Tuesday
+
+**Today's Progress**: Started working on movies project
+
+**Link(s) to work**
+1. [Go Movies CRUD](https://github.com/f24aalam/go-projects/tree/master/go-movies-crud)
