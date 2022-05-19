@@ -96,9 +96,16 @@
 **Link(s) to work**
 1. [Go Server](https://github.com/f24aalam/go-projects/tree/master/go-server)
 
-### Day 11: May 18, Tuesday
+### Day 11: May 18, Wednesday
 
 **Today's Progress**: Started working on movies project
 
 **Link(s) to work**
 1. [Go Movies CRUD](https://github.com/f24aalam/go-projects/tree/master/go-movies-crud)
+
+### Day 12: May 1p, Thursday
+
+**Today's Progress**: Completed another project in go - Bookstore
+
+**Link(s) to work**
+1. [Go Bookstore CRUD](https://github.com/f24aalam/go-projects/tree/master/go-bookstore)
