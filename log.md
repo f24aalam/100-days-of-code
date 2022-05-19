@@ -103,7 +103,7 @@
 **Link(s) to work**
 1. [Go Movies CRUD](https://github.com/f24aalam/go-projects/tree/master/go-movies-crud)
 
-### Day 12: May 1p, Thursday
+### Day 12: May 19, Thursday
 
 **Today's Progress**: Completed another project in go - Bookstore
 
